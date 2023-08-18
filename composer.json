@@ -1,14 +1,14 @@
 {
-    "name": "eloquent/composer-npm-bridge",
-    "description": "NPM integration for Composer packages.",
+    "name": "haveboard/composer-npm-bridge",
+    "description": "eloquent fork, NPM integration for Composer packages.",
     "keywords": ["composer", "npm", "package", "integration", "bridge", "plugin", "composer-plugin"],
     "homepage": "https://github.com/eloquent/composer-npm-bridge",
     "license": "MIT",
     "authors": [
         {
-            "name": "Erin Millard",
-            "email": "ezzatron@gmail.com",
-            "homepage": "http://ezzatron.com/"
+            "name": "haveboard",
+            "email": "haveboard@gmail.com",
+            "homepage": "https://jonathanfinnegan.com/"
         }
     ],
     "type": "composer-plugin",
